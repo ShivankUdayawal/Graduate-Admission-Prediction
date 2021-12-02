@@ -80,4 +80,18 @@ https://www.kaggle.com/mohansacharya/graduate-admissions
 
 ![](https://github.com/ShivankUdayawal/Graduate-Admission-Prediction/blob/main/Data%20Visualization/20.jpg)
 
-![]()
+![](https://github.com/ShivankUdayawal/Graduate-Admission-Prediction/blob/main/Data%20Visualization/21.jpg)
+
+![](https://github.com/ShivankUdayawal/Graduate-Admission-Prediction/blob/main/Data%20Visualization/22.jpg)
+
+![](https://github.com/ShivankUdayawal/Graduate-Admission-Prediction/blob/main/Data%20Visualization/23.jpg)
+
+![](https://github.com/ShivankUdayawal/Graduate-Admission-Prediction/blob/main/Data%20Visualization/24.jpg)
+
+![](https://github.com/ShivankUdayawal/Graduate-Admission-Prediction/blob/main/Data%20Visualization/25.jpg)
+
+![](https://github.com/ShivankUdayawal/Graduate-Admission-Prediction/blob/main/Data%20Visualization/26.jpg)
+
+![](https://github.com/ShivankUdayawal/Graduate-Admission-Prediction/blob/main/Data%20Visualization/27.jpg)
+
+![](https://github.com/ShivankUdayawal/Graduate-Admission-Prediction/blob/main/Data%20Visualization/28.jpg)
